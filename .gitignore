@@ -1,0 +1,11 @@
+# Ignore Google Cloud credentials
+credentials.json
+
+# Ignore Python virtual environment (venv)
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore logs and temporary files
+*.log
